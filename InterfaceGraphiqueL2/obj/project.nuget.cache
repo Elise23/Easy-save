@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pUI4MlXsRj4AgeZNrbDf2ffJ1vjp/IvgxaesY8va9SbJLEQdPoc64wGx3DQPylib1awSvdQjVXZDqrZjVdgTSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beaus\\Documents\\GitHub\\Easy-save\\InterfaceGraphiqueL2\\InterfaceGraphiqueL2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beaus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\beaus\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.0\\ookii.dialogs.wpf.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
