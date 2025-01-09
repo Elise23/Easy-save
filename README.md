@@ -18,7 +18,7 @@ Ce fichier fera office de document utilisateur pour notre projet. Il va permettr
 -- Full ou Différentielle
 - Fichiers de logs journaliers
 
->Chacun des étapes est décrite dans la console si jamais vous ne savez plus comment faire.
+>Chacune des étapes est décrite dans la console si jamais vous ne savez plus comment faire.
 
 ## Installation
 
@@ -29,12 +29,12 @@ Sur votre machine, il faut installer Visual studio et .NET (les liens sont en ha
 
 Vous pouvez basculer entre Anglais et Français à tout moment grâce aux drapeaux situés à gauche de l'interface.
 Dans les paramètres vous pouvez choisir le type de fichier à crypter (txt seulement actuellement).
-Définir un logiciel métier qui va bloquer les sauvegarde si il est lancé.
+Définir un logiciel métier qui va bloquer les sauvegardes si il est lancé.
 
 → Pour sauvegarder un fichier, vous pourrez choisir entre une sauvegazrde complète ou séquentielle.
 → Sauvegarder un fichier ou un dossier.
 → Sélectionner le chemin de source (fichier ou dossier) du document 
-→ Séléctionner le chemin de destination du document
+→ Sélectionner le chemin de destination du document
 
 ### Backup_Infos
 
